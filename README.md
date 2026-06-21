@@ -1,6 +1,6 @@
 # API Financeira - Django REST Framework
 
-API RESTful para gerenciamento de instituição financeira, desenvolvida com Django REST Framework.
+API RESTful simples para gerenciamento de instituição financeira, desenvolvida com Django REST Framework.
 
 ## Funcionalidades
 
